@@ -4,7 +4,8 @@
 var app = new Vue({
     el: "#app",
     data: {
-      messaggio:"ciao sono un h1"
+      messaggio:"ciao sono un h1",
+      image:"file:///C:/Users/vanes/OneDrive/Documents/Programmazione/Boolean/vue-hello/img/dress.jpeg"
 
     }
   });
